@@ -37,21 +37,3 @@ Thanks for visiting! 😊
 [![](https://visitcount.itsvg.in/api?id=aarusheeeh&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Leetcode](https://img.shields.io/badge/Leetcode-1769ff?logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidubey1856/) [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-%231877F2.svg?logo=CodingNinjas&logoColor=white)](https://www.naukri.com/code360/profile/aarusheeeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aarushi-dubey-529438201/) [![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
-
