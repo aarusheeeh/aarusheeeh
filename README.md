@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Aarushi Dubey! 💫 :
-👩🏻‍🎓 Pre-final year student at Indira Gandhi Delhi Technical University for Women, studying B.Tech in Artificial Intelligence and Machine Learning.<br><br>🌱 Always eager to learn and explore new technologies, currently delving into Deep Learning.<br><br>👩🏻‍💻I enjoy sharing my journey and learnings in tech.
+👩🏻‍🎓 Pre-final year student at Indira Gandhi Delhi Technical University for Women, studying B.Tech in Artificial Intelligence and Machine Learning.<br><br>🌱 Always eager to learn and explore new technologies, currently delving into Deep Learning.<br><br>👩🏻‍💻I enjoy sharing my journey and learnings in tech.<br><br>
+👻 Fun Fact: Sharing memes is my favorite pastime.
+
+## 😂 Random Dev Meme:
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ## 🌐 Socials:
 
@@ -19,17 +24,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aarusheeeh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
+
 ![](https://github-contributor-stats.vercel.app/api?username=aarusheeeh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
-### 🤝 Let's Collaborate:
+## 🤝 Let's Collaborate:
 I'm always eager to collaborate and explore new opportunities.If you have a project or idea you'd like to discuss, don't hesitate to get in touch!
 
 Thanks for visiting! 😊
