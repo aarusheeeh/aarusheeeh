@@ -1,18 +1,8 @@
 ### 👋 Hi, I'm Aarushi Dubey!  
-👩🏻‍💻 B.Tech student sharing about my journey and learnings in tech
--👩🏻‍🎓 3rd year Artificial Inelligence and Machine Learning B.Tech Student at the Indira Gandhi Delhi Technical University for Women, New Delhi, India
-- 🌱 Currently learning about Deep Learning
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 She/Her
-<!--
-**aarusheeeh/aarusheeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--👩🏻‍💻 B.Tech student sharing about my journey and learnings in tech
--👩🏻‍🎓 3rd year Artificial Inelligence and Machine Learning B.Tech Student at the Indira Gandhi Delhi Technical University for Women, New Delhi, India
+👩🏻‍💻 B.Tech student sharing about my journey and learnings in tech.
+
+- 👩🏻‍🎓 3rd year B.Tech Student in Artificial Inelligence and Machine Learning at the Indira Gandhi Delhi Technical University for Women, New Delhi, India
 - 🌱 Currently learning about Deep Learning
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 She/Her
--->
+
+[![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarusheeeh)](https://github.com/aarusheeeh/github-readme-stats)
