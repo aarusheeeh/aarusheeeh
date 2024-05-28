@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aarushi Dubey! 💫 :
-👩🏻‍🎓 Sophomore at Indira Gandhi Delhi Technical University for Women, studying B.Tech in Artificial Intelligence and Machine Learning.<br><br>🌱 Always eager to learn and explore new technologies, currently delving into Deep Learning.<br><br>👩🏻‍💻I enjoy sharing my journey and learnings in tech.
+👩🏻‍🎓 Pre-final year student at Indira Gandhi Delhi Technical University for Women, studying B.Tech in Artificial Intelligence and Machine Learning.<br><br>🌱 Always eager to learn and explore new technologies, currently delving into Deep Learning.<br><br>👩🏻‍💻I enjoy sharing my journey and learnings in tech.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aarushi-dubey-529438201/) 
