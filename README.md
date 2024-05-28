@@ -5,4 +5,4 @@
 - 👩🏻‍🎓 3rd year B.Tech Student in Artificial Inelligence and Machine Learning at the Indira Gandhi Delhi Technical University for Women, New Delhi, India
 - 🌱 Currently learning about Deep Learning
 
-[![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarusheeeh)](https://github.com/aarusheeeh/github-readme-stats)
+![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarusheeeh&show_icons=true&theme=radical)
