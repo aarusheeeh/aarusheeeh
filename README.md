@@ -1,5 +1,10 @@
 ### 👋 Hi, I'm Aarushi Dubey!  
-
+👩🏻‍💻 B.Tech student sharing about my journey and learnings in tech
+-👩🏻‍🎓 3rd year Artificial Inelligence and Machine Learning B.Tech Student at the Indira Gandhi Delhi Technical University for Women, New Delhi, India
+- 🌱 Currently learning about Deep Learning
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 She/Her
 <!--
 **aarusheeeh/aarusheeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
