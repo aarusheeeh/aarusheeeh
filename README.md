@@ -6,7 +6,7 @@
 [![Leetcode](https://img.shields.io/badge/Leetcode-1769ff?logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidubey1856/)
 [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-%231877F2.svg?logo=CodingNinjas&logoColor=white)](https://www.naukri.com/code360/profile/aarusheeeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-dubey-529438201/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](mailto:aarushidubey1856@gmail.com)
 
 
 # 💻 Tech Stack:
