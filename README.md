@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidubey1856/)
-[![CodingNinjas](https://img.shields.io/badge/CodingNinjas-%231877F2.svg?logo=CodingNinjas&logoColor=white)](https://www.naukri.com/code360/profile/aarusheeeh)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%23EF494D.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/aarusheeeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-dubey-529438201/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](mailto:aarushidubey1856@gmail.com)
 
