@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarushi Dubey! 💫 :
+# 👋 Hi, I'm Aarushi Dubey! 💫 
 👩🏻‍🎓 Pre-final year student at Indira Gandhi Delhi Technical University for Women, studying B.Tech in Artificial Intelligence and Machine Learning.<br><br>🌱 Always eager to learn and explore new technologies, currently delving into Deep Learning.<br><br>👩🏻‍💻I enjoy sharing my journey and learnings in tech.<br><br>
 👻 Fun Fact: Sharing memes is my favorite pastime.
 
