@@ -35,7 +35,7 @@
 
 ---
 ## 🤝 Let's Collaborate:
-I'm always eager to collaborate and explore new opportunities.If you have a project or idea you'd like to discuss, don't hesitate to get in touch!
+I'm always eager to collaborate and explore new opportunities. If you have a project or idea you'd like to discuss, don't hesitate to get in touch!
 
 Thanks for visiting! 😊
 
